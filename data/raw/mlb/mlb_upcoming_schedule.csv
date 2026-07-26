@@ -1,0 +1,43 @@
+game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher
+2026-07-26,822950,Scheduled,Cleveland Guardians,Tampa Bay Rays,Parker Messick,Drew Rasmussen
+2026-07-26,822706,Scheduled,Arizona Diamondbacks,Washington Nationals,Kohl Drake,Miles Mikolas
+2026-07-26,823354,Scheduled,Chicago Cubs,Pittsburgh Pirates,Jameson Taillon,Braxton Ashcraft
+2026-07-26,824730,Scheduled,Toronto Blue Jays,Boston Red Sox,Kevin Gausman,Ranger Suarez
+2026-07-26,824810,Scheduled,Atlanta Braves,Baltimore Orioles,Reynaldo López,Shane Baz
+2026-07-26,824246,Scheduled,Kansas City Royals,Detroit Tigers,Luinder Avila,Framber Valdez
+2026-07-26,823599,Scheduled,Los Angeles Dodgers,New York Mets,Emmet Sheehan,Freddy Peralta
+2026-07-26,823840,Scheduled,San Diego Padres,Miami Marlins,Walker Buehler,Janson Junk
+2026-07-26,823678,Scheduled,Athletics,Minnesota Twins,Jeffrey Springs,Connor Prielipp
+2026-07-26,824572,Scheduled,Houston Astros,Chicago White Sox,Ronel Blanco,Erick Fedde
+2026-07-26,823755,Scheduled,Colorado Rockies,Milwaukee Brewers,Kyle Freeland,Jacob Misiorowski
+2026-07-26,823028,Scheduled,Cincinnati Reds,St. Louis Cardinals,Andrew Abbott,Kyle Leahy
+2026-07-26,822870,Scheduled,Seattle Mariners,Texas Rangers,Logan Gilbert,Jacob deGrom
+2026-07-26,823194,Scheduled,Los Angeles Angels,San Francisco Giants,José Soriano,Carson Whisenhunt
+2026-07-26,823433,Scheduled,New York Yankees,Philadelphia Phillies,Will Warren,Cristopher Sánchez
+2026-07-27,822868,Scheduled,Seattle Mariners,Texas Rangers,George Kirby,Kumar Rocker
+2026-07-27,824245,Scheduled,Baltimore Orioles,Detroit Tigers,,
+2026-07-27,823353,Scheduled,Arizona Diamondbacks,Pittsburgh Pirates,,
+2026-07-27,823839,Scheduled,Philadelphia Phillies,Miami Marlins,,
+2026-07-27,822705,Scheduled,Toronto Blue Jays,Washington Nationals,,
+2026-07-27,824490,Scheduled,Cleveland Guardians,Cincinnati Reds,Slade Cecconi,Chase Burns
+2026-07-27,823597,Scheduled,Atlanta Braves,New York Mets,,Zac Thornton
+2026-07-27,824570,Scheduled,New York Yankees,Chicago White Sox,,Noah Schultz
+2026-07-27,823025,Scheduled,Chicago Cubs,St. Louis Cardinals,,
+2026-07-27,824001,Scheduled,Houston Astros,Los Angeles Angels,,
+2026-07-27,824977,Scheduled,Boston Red Sox,Athletics,Payton Tolle,
+2026-07-27,823195,Scheduled,Milwaukee Brewers,San Francisco Giants,Brandon Sproat,
+2026-07-28,824243,Scheduled,Baltimore Orioles,Detroit Tigers,,
+2026-07-28,823350,Scheduled,Arizona Diamondbacks,Pittsburgh Pirates,,
+2026-07-28,822949,Scheduled,Texas Rangers,Tampa Bay Rays,,
+2026-07-28,823838,Scheduled,Philadelphia Phillies,Miami Marlins,,
+2026-07-28,822703,Scheduled,Toronto Blue Jays,Washington Nationals,,
+2026-07-28,824489,Scheduled,Cleveland Guardians,Cincinnati Reds,Gavin Williams,Brady Singer
+2026-07-28,823598,Scheduled,Atlanta Braves,New York Mets,,Christian Scott
+2026-07-28,823676,Scheduled,Kansas City Royals,Minnesota Twins,,
+2026-07-28,824569,Scheduled,New York Yankees,Chicago White Sox,,Anthony Kay
+2026-07-28,823026,Scheduled,Chicago Cubs,St. Louis Cardinals,,
+2026-07-28,824003,Scheduled,Houston Astros,Los Angeles Angels,,
+2026-07-28,824976,Scheduled,Boston Red Sox,Athletics,,
+2026-07-28,823275,Scheduled,Colorado Rockies,San Diego Padres,,Michael King
+2026-07-28,823193,Scheduled,Milwaukee Brewers,San Francisco Giants,Logan Henderson,
+2026-07-28,823923,Scheduled,Seattle Mariners,Los Angeles Dodgers,,
