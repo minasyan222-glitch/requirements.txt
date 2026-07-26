@@ -1,9 +1,8 @@
 from pathlib import Path
 from datetime import datetime, timezone
 
-from src.download_football import download_football_data
 from src.download_mlb import download_mlb_data
-from src.download_tennis import download_tennis_data
+from src.mlb_model import generate_predictions, train_and_backtest
 
 
 def ensure_directories() -> None:
@@ -16,10 +15,12 @@ def main() -> None:
     started = datetime.now(timezone.utc)
     print(f"Pipeline started: {started.isoformat()}")
 
-    download_mlb_data()
-    download_football_data()
-    download_tennis_data()
+    history_path, schedule_path = download_mlb_data()
+    ratings, metrics = train_and_backtest(history_path)
+    prediction_path = generate_predictions(schedule_path, ratings)
 
+    print(f"MLB backtest: {metrics}")
+    print(f"MLB predictions: {prediction_path}")
     finished = datetime.now(timezone.utc)
     print(f"Pipeline finished: {finished.isoformat()}")
 
