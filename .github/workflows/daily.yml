@@ -12,6 +12,8 @@ jobs:
       contents: write
     env:
       ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
 
     steps:
       - name: Checkout
