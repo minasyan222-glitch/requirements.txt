@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 
 from src.download_mlb import download_mlb_data
 from src.mlb_model import generate_predictions, train_and_backtest
+from src.mlb_odds import download_mlb_odds
 
 
 def ensure_directories() -> None:
@@ -16,8 +17,9 @@ def main() -> None:
     print(f"Pipeline started: {started.isoformat()}")
 
     history_path, schedule_path = download_mlb_data()
+    odds_path = download_mlb_odds()
     ratings, metrics = train_and_backtest(history_path)
-    prediction_path = generate_predictions(schedule_path, ratings)
+    prediction_path = generate_predictions(schedule_path, ratings, odds_path)
 
     print(f"MLB backtest: {metrics}")
     print(f"MLB predictions: {prediction_path}")
