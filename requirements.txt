@@ -4,3 +4,4 @@ requests>=2.32
 pyarrow>=16.0
 scikit-learn>=1.5
 joblib>=1.4
+kaggle>=1.6
