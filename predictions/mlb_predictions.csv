@@ -1,22 +1,11 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-07-27,Seattle Mariners,Texas Rangers,George Kirby,Kumar Rocker,0.4266,-0.0082,high,0.4184,0.5816,2.39,1.719,,,NO BET,,,,,0.0
-2026-07-27,Baltimore Orioles,Detroit Tigers,Kyle Bradish,Keider Montero,0.4772,0.0222,high,0.4994,0.5006,2.002,1.998,,,NO BET,,,,,0.0
-2026-07-27,Arizona Diamondbacks,Pittsburgh Pirates,Merrill Kelly,Mitch Keller,0.5422,0.0111,high,0.5534,0.4466,1.807,2.239,,,NO BET,,,,,0.0
-2026-07-27,Philadelphia Phillies,Miami Marlins,Zack Wheeler,Tyler Phillips,0.4737,-0.0418,high,0.4318,0.5682,2.316,1.76,,,NO BET,,,,,0.0
-2026-07-27,Toronto Blue Jays,Washington Nationals,Max Scherzer,Andrew Alvarez,0.3598,0.06,medium,0.4246,0.5754,2.355,1.738,,,NO BET,,,,,0.0
-2026-07-27,Cleveland Guardians,Cincinnati Reds,Slade Cecconi,Chase Burns,0.4849,0.0432,high,0.528,0.472,1.894,2.119,,,NO BET,,,,,0.0
-2026-07-27,Atlanta Braves,New York Mets,Martín Pérez,Zac Thornton,0.4785,0.0344,medium,0.5121,0.4879,1.953,2.05,,,NO BET,,,,,0.0
-2026-07-27,New York Yankees,Chicago White Sox,Max Fried,Noah Schultz,0.2875,-0.06,medium,0.2439,0.7561,4.101,1.322,,,NO BET,,,,,0.0
-2026-07-27,Chicago Cubs,St. Louis Cardinals,David Peterson,,0.4536,0.0,low,0.4592,0.5408,2.178,1.849,,,NO BET,,,,,0.0
-2026-07-27,Houston Astros,Los Angeles Angels,Tatsuya Imai,Walbert Ureña,0.397,0.0417,medium,0.4424,0.5576,2.26,1.794,,,NO BET,,,,,0.0
-2026-07-27,Boston Red Sox,Athletics,Payton Tolle,Jack Perkins,0.3791,-0.0573,high,0.3218,0.6782,3.108,1.474,,,NO BET,,,,,0.0
-2026-07-27,Milwaukee Brewers,San Francisco Giants,Brandon Sproat,Tyler Mahle,0.4556,-0.0061,high,0.4495,0.5505,2.225,1.817,,,NO BET,,,,,0.0
+2026-07-28,Cleveland Guardians,Cincinnati Reds,Slade Cecconi,Chase Burns,0.4849,0.0432,high,0.528,0.472,1.894,2.119,,,NO BET,,,,,0.0
+2026-07-28,Cleveland Guardians,Cincinnati Reds,Gavin Williams,,0.4849,0.0,low,0.4867,0.5133,2.055,1.948,,,NO BET,,,,,0.0
 2026-07-28,Baltimore Orioles,Detroit Tigers,Dean Kremer,Troy Melton,0.4772,0.0493,medium,0.525,0.475,1.905,2.105,,,NO BET,,,,,0.0
 2026-07-28,Arizona Diamondbacks,Pittsburgh Pirates,Brandon Pfaadt,Bubba Chandler,0.5422,-0.004,high,0.5382,0.4618,1.858,2.166,,,NO BET,,,,,0.0
 2026-07-28,Texas Rangers,Tampa Bay Rays,,Griffin Jax,0.5087,0.0,low,0.5077,0.4923,1.97,2.031,,,NO BET,,,,,0.0
 2026-07-28,Philadelphia Phillies,Miami Marlins,Aaron Nola,Sandy Alcantara,0.4737,0.0327,high,0.5064,0.4936,1.975,2.026,,,NO BET,,,,,0.0
 2026-07-28,Toronto Blue Jays,Washington Nationals,Shane Bieber,Cade Cavalli,0.3598,0.0204,medium,0.3874,0.6126,2.581,1.632,,,NO BET,,,,,0.0
-2026-07-28,Cleveland Guardians,Cincinnati Reds,Gavin Williams,Brady Singer,0.4849,-0.023,high,0.4619,0.5381,2.165,1.858,,,NO BET,,,,,0.0
 2026-07-28,Atlanta Braves,New York Mets,Chris Sale,Christian Scott,0.4785,-0.0218,high,0.4567,0.5433,2.189,1.841,,,NO BET,,,,,0.0
 2026-07-28,Kansas City Royals,Minnesota Twins,Seth Lugo,Taj Bradley,0.4016,0.0155,high,0.4171,0.5829,2.397,1.716,,,NO BET,,,,,0.0
 2026-07-28,New York Yankees,Chicago White Sox,Gerrit Cole,Anthony Kay,0.2875,-0.017,high,0.2705,0.7295,3.697,1.371,,,NO BET,,,,,0.0
@@ -25,7 +14,7 @@ game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pit
 2026-07-28,Boston Red Sox,Athletics,Jake Bennett,Gage Jump,0.3791,-0.0461,medium,0.343,0.657,2.915,1.522,,,NO BET,,,,,0.0
 2026-07-28,Colorado Rockies,San Diego Padres,Michael Lorenzen,Michael King,0.8021,0.06,high,0.8621,0.1379,1.16,7.25,,,NO BET,,,,,0.0
 2026-07-28,Milwaukee Brewers,San Francisco Giants,Logan Henderson,Landen Roupp,0.4556,-0.0256,medium,0.4343,0.5657,2.303,1.768,,,NO BET,,,,,0.0
-2026-07-28,Seattle Mariners,Los Angeles Dodgers,,,0.5721,0.0,low,0.5635,0.4365,1.775,2.291,,,NO BET,,,,,0.0
+2026-07-28,Seattle Mariners,Los Angeles Dodgers,Luis Castillo,,0.5721,0.0,low,0.5635,0.4365,1.775,2.291,,,NO BET,,,,,0.0
 2026-07-29,Philadelphia Phillies,Miami Marlins,Jesús Luzardo,,0.4737,0.0,low,0.4768,0.5232,2.097,1.911,,,NO BET,,,,,0.0
 2026-07-29,Arizona Diamondbacks,Pittsburgh Pirates,Eduardo Rodriguez,Jared Jones,0.5422,-0.002,medium,0.5378,0.4622,1.859,2.164,,,NO BET,,,,,0.0
 2026-07-29,Toronto Blue Jays,Washington Nationals,Trey Yesavage,Zack Littell,0.3598,-0.023,high,0.3368,0.6632,2.969,1.508,,,NO BET,,,,,0.0
@@ -40,4 +29,14 @@ game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pit
 2026-07-29,Chicago Cubs,St. Louis Cardinals,Matthew Boyd,,0.4536,0.0,low,0.4592,0.5408,2.178,1.849,,,NO BET,,,,,0.0
 2026-07-29,Houston Astros,Los Angeles Angels,,Grayson Rodriguez,0.397,0.0,low,0.4094,0.5906,2.443,1.693,,,NO BET,,,,,0.0
 2026-07-29,Boston Red Sox,Athletics,Patrick Sandoval,Jacob Lopez,0.3791,0.0,low,0.3936,0.6064,2.541,1.649,,,NO BET,,,,,0.0
-2026-07-29,Seattle Mariners,Los Angeles Dodgers,,,0.5721,0.0,low,0.5635,0.4365,1.775,2.291,,,NO BET,,,,,0.0
+2026-07-29,Seattle Mariners,Los Angeles Dodgers,Emerson Hancock,,0.5721,0.0,low,0.5635,0.4365,1.775,2.291,,,NO BET,,,,,0.0
+2026-07-30,Texas Rangers,Tampa Bay Rays,,,0.5087,0.0,low,0.5077,0.4923,1.97,2.031,,,NO BET,,,,,0.0
+2026-07-30,Kansas City Royals,Minnesota Twins,,Bailey Ober,0.4016,0.0,low,0.4134,0.5866,2.419,1.705,,,NO BET,,,,,0.0
+2026-07-30,New York Yankees,Chicago White Sox,Ryan Weathers,Sean Burke,0.2875,0.0202,high,0.3077,0.6923,3.25,1.445,,,NO BET,,,,,0.0
+2026-07-30,Chicago Cubs,St. Louis Cardinals,Shota Imanaga,,0.4536,0.0,low,0.4592,0.5408,2.178,1.849,,,NO BET,,,,,0.0
+2026-07-30,Pittsburgh Pirates,Cincinnati Reds,,Hunter Greene,0.5935,0.0,low,0.5823,0.4177,1.717,2.394,,,NO BET,,,,,0.0
+2026-07-30,Miami Marlins,New York Mets,,Nolan McLean,0.4604,0.0,low,0.4652,0.5348,2.15,1.87,,,NO BET,,,,,0.0
+2026-07-30,Washington Nationals,Atlanta Braves,,,0.6685,0.0,low,0.6483,0.3517,1.543,2.843,,,NO BET,,,,,0.0
+2026-07-30,Boston Red Sox,Athletics,Sonny Gray,,0.3791,0.0,low,0.3936,0.6064,2.541,1.649,,,NO BET,,,,,0.0
+2026-07-30,San Francisco Giants,San Diego Padres,,,0.6104,0.0,low,0.5971,0.4029,1.675,2.482,,,NO BET,,,,,0.0
+2026-07-30,Seattle Mariners,Los Angeles Dodgers,Bryce Miller,,0.5721,0.0,low,0.5635,0.4365,1.775,2.291,,,NO BET,,,,,0.0
