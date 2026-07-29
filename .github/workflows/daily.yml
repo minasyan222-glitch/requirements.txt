@@ -2,6 +2,9 @@ name: Daily Sport Analyst Pipeline
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 6 * * *"
 
