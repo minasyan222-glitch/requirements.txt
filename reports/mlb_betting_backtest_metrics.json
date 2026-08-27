@@ -1,13 +1,8 @@
 {
-  "generated_at_utc": "2026-07-28T08:25:46.185998+00:00",
-  "status": "blocked_missing_historical_odds",
-  "expected_file": "data/raw/mlb/mlb_historical_odds.csv",
-  "required_columns": [
-    "date",
-    "home_team",
-    "away_team",
-    "home_decimal_odds",
-    "away_decimal_odds"
-  ],
-  "note": "No ROI is reported until real pre-game historical bookmaker odds are supplied."
+  "generated_at_utc": "2026-08-27T13:26:50.353649+00:00",
+  "status": "blocked_ambiguous_prediction_identity",
+  "prediction_rows": 17906,
+  "ambiguous_prediction_rows": 686,
+  "ambiguous_game_keys": 343,
+  "note": "Historical odds are keyed by date and teams; duplicate game keys (for example, doubleheaders) cannot be matched safely without a game identifier."
 }
