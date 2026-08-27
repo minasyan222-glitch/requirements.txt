@@ -1,5 +1,5 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-08-27,822694,In Progress,Colorado Rockies,Washington Nationals,Gabriel Hughes,Jake Irvin,687312.0,663623.0,6.54,1.36,42.2,7.38,3.16,5.82,1.36,77.1,8.84,3.84
+2026-08-27,822694,In Progress,Colorado Rockies,Washington Nationals,Gabriel Hughes,Jake Irvin,687312.0,663623.0,6.54,1.36,42.2,7.38,3.16,5.79,1.36,77.2,8.81,3.94
 2026-08-27,823014,Pre-Game,Baltimore Orioles,St. Louis Cardinals,Trevor Rogers,Gordon Graceffo,669432.0,700669.0,4.14,1.24,132.2,7.73,2.44,3.13,1.12,63.1,5.4,4.26
 2026-08-27,823503,Scheduled,Houston Astros,New York Yankees,Hayden Wesneski,Gerrit Cole,669713.0,543037.0,4.23,1.23,27.2,7.16,3.25,3.11,1.07,92.2,9.71,1.94
 2026-08-27,822771,Scheduled,Kansas City Royals,Toronto Blue Jays,Noah Cameron,Spencer Arrighetti,702070.0,681293.0,4.02,1.21,143.1,8.04,2.89,4.73,1.35,91.1,8.97,5.12
@@ -19,7 +19,7 @@ game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitc
 2026-08-28,823666,Scheduled,Chicago White Sox,Minnesota Twins,Luis Castillo,Dean Kremer,622491.0,665152.0,5.19,1.42,118.0,8.01,2.82,5.22,1.18,58.2,8.9,2.91
 2026-08-28,823013,Scheduled,Pittsburgh Pirates,St. Louis Cardinals,Jared Jones,Quinn Mathews,683003.0,687273.0,4.76,1.25,68.0,10.19,3.44,6.43,1.79,14.0,8.36,4.5
 2026-08-28,823985,Scheduled,Philadelphia Phillies,Los Angeles Angels,Andrew Painter,Reid Detmers,691725.0,672282.0,6.04,1.48,92.1,7.7,3.31,3.62,1.06,149.0,10.39,2.66
-2026-08-28,824960,Scheduled,Baltimore Orioles,Athletics,,,,,,,,,,,,,,
+2026-08-28,824960,Scheduled,Baltimore Orioles,Athletics,Brandon Young,,687064.0,,3.5,1.36,123.1,7.22,3.28,,,,,
 2026-08-28,823178,Scheduled,Arizona Diamondbacks,San Francisco Giants,,Blade Tidwell,,694918.0,,,,,,3.58,1.16,32.2,7.44,3.31
 2026-08-29,823539,Scheduled,Boston Red Sox,New York Yankees,Jake Bennett,,687562.0,,3.49,1.07,87.2,6.88,1.85,,,,,
 2026-08-29,823501,Scheduled,Boston Red Sox,New York Yankees,,,,,,,,,,,,,,

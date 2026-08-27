@@ -1,5 +1,5 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-08-27,Colorado Rockies,Washington Nationals,Gabriel Hughes,Jake Irvin,0.6952,0.0086,medium,0.6916,0.3084,1.446,3.243,,,NO BET,,,,,0.0
+2026-08-27,Colorado Rockies,Washington Nationals,Gabriel Hughes,Jake Irvin,0.6952,0.009,medium,0.692,0.308,1.445,3.246,,,NO BET,,,,,0.0
 2026-08-27,Baltimore Orioles,St. Louis Cardinals,Trevor Rogers,Gordon Graceffo,0.4847,0.0181,high,0.5028,0.4972,1.989,2.011,,,NO BET,,,,,0.0
 2026-08-27,Houston Astros,New York Yankees,Hayden Wesneski,Gerrit Cole,0.6941,0.0214,medium,0.7026,0.2974,1.423,3.363,,,NO BET,,,,,0.0
 2026-08-27,Kansas City Royals,Toronto Blue Jays,Noah Cameron,Spencer Arrighetti,0.6111,-0.0155,high,0.5956,0.4044,1.679,2.473,,,NO BET,,,,,0.0
@@ -19,7 +19,7 @@ game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pit
 2026-08-28,Chicago White Sox,Minnesota Twins,Luis Castillo,Dean Kremer,0.5413,0.0116,medium,0.5498,0.4502,1.819,2.221,,,NO BET,,,,,0.0
 2026-08-28,Pittsburgh Pirates,St. Louis Cardinals,Jared Jones,Quinn Mathews,0.4967,0.0,low,0.4971,0.5029,2.012,1.988,,,NO BET,,,,,0.0
 2026-08-28,Philadelphia Phillies,Los Angeles Angels,Andrew Painter,Reid Detmers,0.3008,0.05,high,0.3509,0.6491,2.85,1.541,,,NO BET,,,,,0.0
-2026-08-28,Baltimore Orioles,Athletics,,,0.4575,0.0,low,0.4626,0.5374,2.162,1.861,,,NO BET,,,,,0.0
+2026-08-28,Baltimore Orioles,Athletics,Brandon Young,,0.4575,0.0,low,0.4626,0.5374,2.162,1.861,,,NO BET,,,,,0.0
 2026-08-28,Arizona Diamondbacks,San Francisco Giants,,Blade Tidwell,0.5264,0.0,low,0.5232,0.4768,1.911,2.097,,,NO BET,,,,,0.0
 2026-08-29,Boston Red Sox,New York Yankees,Jake Bennett,,0.6252,0.0,low,0.6101,0.3899,1.639,2.565,,,NO BET,,,,,0.0
 2026-08-29,Boston Red Sox,New York Yankees,,,0.6252,0.0,low,0.6101,0.3899,1.639,2.565,,,NO BET,,,,,0.0
