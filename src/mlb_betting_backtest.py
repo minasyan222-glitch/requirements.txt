@@ -89,8 +89,22 @@ def run_historical_betting_backtest(
 
     predictions = pd.read_csv(prediction_path)
     predictions["date"] = pd.to_datetime(predictions["date"], errors="coerce").dt.normalize()
+    identity_keys = ["date", "home_team", "away_team"]
+    ambiguous = predictions[predictions.duplicated(identity_keys, keep=False)]
+    if not ambiguous.empty:
+        metrics = {
+            "generated_at_utc": datetime.now(timezone.utc).isoformat(),
+            "status": "blocked_ambiguous_prediction_identity",
+            "prediction_rows": int(len(predictions)),
+            "ambiguous_prediction_rows": int(len(ambiguous)),
+            "ambiguous_game_keys": int(ambiguous[identity_keys].drop_duplicates().shape[0]),
+            "note": "Historical odds are keyed by date and teams; duplicate game keys (for example, doubleheaders) cannot be matched safely without a game identifier.",
+        }
+        Path("reports/mlb_betting_backtest_metrics.json").write_text(
+            json.dumps(metrics, indent=2), encoding="utf-8"
+        )
+        return metrics
     odds = _validate_odds(pd.read_csv(odds_path))
-
     merged = predictions.merge(
         odds,
         on=["date", "home_team", "away_team"],
