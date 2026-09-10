@@ -1,36 +1,36 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-09-09,824226,Scheduled,Minnesota Twins,Detroit Tigers,Zebby Matthews,Keider Montero,805673.0,672456.0,4.69,1.25,117.0,7.46,2.54,3.52,1.03,143.0,6.04,2.01
-2026-09-09,824956,Scheduled,Toronto Blue Jays,Athletics,Braydon Fisher,Brady Basso,680755.0,669620.0,3.2,1.24,70.1,8.7,4.86,4.32,1.41,33.1,6.48,1.35
-2026-09-09,823172,Scheduled,St. Louis Cardinals,San Francisco Giants,Andre Pallante,Blade Tidwell,669467.0,694918.0,3.51,1.24,141.0,6.26,2.87,4.43,1.24,42.2,7.59,3.8
-2026-09-09,823251,Scheduled,Washington Nationals,San Diego Padres,Jackson Kent,Walker Buehler,800600.0,621111.0,5.55,1.68,24.1,7.77,7.03,4.56,1.34,136.1,7.72,3.37
-2026-09-09,823090,Scheduled,Texas Rangers,Seattle Mariners,Cody Bradford,Kade Anderson,674003.0,807739.0,4.45,1.58,30.1,4.75,2.08,5.4,1.47,15.0,6.6,4.2
-2026-09-09,824791,Scheduled,Cleveland Guardians,Baltimore Orioles,Foster Griffin,Shane Baz,656492.0,669358.0,3.26,1.14,160.1,7.97,2.3,3.91,1.33,163.1,7.99,3.14
-2026-09-09,823416,Scheduled,Houston Astros,Philadelphia Phillies,Hunter Brown,Cristopher Sánchez,686613.0,650911.0,3.31,1.3,87.0,9.62,4.76,2.58,1.2,181.1,10.27,2.08
-2026-09-09,823818,Scheduled,New York Mets,Miami Marlins,Robert Stock,Janson Junk,476594.0,676083.0,5.81,1.75,26.1,8.54,4.44,4.0,1.28,108.0,6.17,2.42
-2026-09-09,824713,Scheduled,Los Angeles Angels,Boston Red Sox,Ryan Johnson,Jake Bennett,696270.0,687562.0,5.17,1.39,78.1,6.66,4.37,3.34,1.02,99.2,7.31,1.63
-2026-09-09,823497,Scheduled,Colorado Rockies,New York Yankees,Tomoyuki Sugano,Will Warren,608372.0,701542.0,5.19,1.35,131.2,5.4,2.05,4.16,1.38,136.1,8.78,3.1
-2026-09-09,824871,Scheduled,Tampa Bay Rays,Atlanta Braves,Griffin Jax,,643377.0,,3.82,1.27,94.1,9.64,3.05,,,,,
-2026-09-09,824064,Scheduled,Arizona Diamondbacks,Kansas City Royals,Zac Gallen,Daniel Lynch IV,668678.0,663738.0,6.34,1.56,98.0,5.6,2.85,3.51,1.1,66.2,6.21,2.7
-2026-09-09,824549,Scheduled,Pittsburgh Pirates,Chicago White Sox,Lake Bachar,Davis Martin,669199.0,663436.0,3.59,1.08,77.2,9.27,3.71,4.13,1.32,130.2,7.85,2.76
-2026-09-09,823739,Scheduled,Chicago Cubs,Milwaukee Brewers,Kevin Gausman,Logan Henderson,592332.0,701656.0,4.38,1.26,162.1,9.15,2.44,2.48,0.79,83.1,10.04,1.51
-2026-09-09,823900,Scheduled,Cincinnati Reds,Los Angeles Dodgers,Rhett Lowder,Yoshinobu Yamamoto,695076.0,808967.0,5.43,1.49,116.0,6.98,3.65,2.67,0.9,165.0,8.78,2.07
 2026-09-10,824872,Scheduled,Tampa Bay Rays,Atlanta Braves,Nick Martinez,Martín Pérez,607259.0,527048.0,3.04,1.1,160.0,5.34,1.35,3.25,1.27,124.2,6.79,3.9
-2026-09-10,823413,Scheduled,Houston Astros,Philadelphia Phillies,,Zack Wheeler,,554430.0,,,,,,3.23,1.08,136.1,10.76,2.84
+2026-09-10,823413,Scheduled,Houston Astros,Philadelphia Phillies,Cristian Javier,Zack Wheeler,664299.0,554430.0,5.98,1.55,49.2,9.06,3.99,3.23,1.08,136.1,10.76,2.84
 2026-09-10,823088,Scheduled,Texas Rangers,Seattle Mariners,Jacob deGrom,Logan Gilbert,594798.0,669302.0,3.96,1.12,143.1,10.93,2.39,3.71,1.07,165.0,9.6,2.29
 2026-09-10,823499,Scheduled,Colorado Rockies,New York Yankees,Ryan Feltner,Max Fried,663372.0,608331.0,5.91,1.58,106.2,6.83,4.05,2.73,0.99,95.2,8.18,2.73
-2026-09-10,824550,Scheduled,Pittsburgh Pirates,Chicago White Sox,Jared Jones,,683003.0,,4.46,1.23,78.2,10.53,3.2,,,,,
-2026-09-11,824631,Scheduled,Pittsburgh Pirates,Chicago Cubs,,,,,,,,,,,,,,
-2026-09-11,824227,Scheduled,Colorado Rockies,Detroit Tigers,,,,,,,,,,,,,,
-2026-09-11,822684,Scheduled,Los Angeles Angels,Washington Nationals,,,,,,,,,,,,,,
+2026-09-10,824550,Scheduled,Pittsburgh Pirates,Chicago White Sox,Jared Jones,Hagen Smith,683003.0,696146.0,4.46,1.23,78.2,10.53,3.2,0.56,0.94,16.0,12.94,5.63
+2026-09-11,824631,Scheduled,Pittsburgh Pirates,Chicago Cubs,,Shota Imanaga,,684007.0,,,,,,3.91,1.12,156.1,8.75,2.01
+2026-09-11,824227,Scheduled,Colorado Rockies,Detroit Tigers,,Framber Valdez,,664285.0,,,,,,4.17,1.36,157.2,6.79,3.31
+2026-09-11,822684,Scheduled,Los Angeles Angels,Washington Nationals,Yusei Kikuchi,Cade Cavalli,579328.0,676917.0,4.96,1.47,49.0,9.0,3.49,3.12,1.18,158.2,10.49,2.61
 2026-09-11,823498,Scheduled,New York Mets,New York Yankees,Nolan McLean,,690997.0,,3.06,1.14,161.2,9.96,3.62,,,,,
-2026-09-11,822767,Scheduled,Baltimore Orioles,Toronto Blue Jays,,,,,,,,,,,,,,
-2026-09-11,824711,Scheduled,Kansas City Royals,Boston Red Sox,,,,,,,,,,,,,,
+2026-09-11,822767,Scheduled,Baltimore Orioles,Toronto Blue Jays,Chris Bassitt,,605135.0,,4.96,1.58,85.1,6.43,3.48,,,,,
+2026-09-11,824711,Scheduled,Kansas City Royals,Boston Red Sox,Seth Lugo,Sonny Gray,607625.0,543243.0,5.04,1.44,159.0,6.74,2.89,2.69,1.16,150.2,8.06,2.39
 2026-09-11,822930,Scheduled,Houston Astros,Tampa Bay Rays,,,,,,,,,,,,,,
-2026-09-11,823817,Scheduled,Los Angeles Dodgers,Miami Marlins,,,,,,,,,,,,,,
+2026-09-11,823817,Scheduled,Los Angeles Dodgers,Miami Marlins,,Ryan Gusto,,687473.0,,,,,,4.23,1.41,72.1,7.71,2.74
 2026-09-11,824873,Scheduled,Philadelphia Phillies,Atlanta Braves,,Chris Sale,,519242.0,,,,,,2.1,1.01,150.0,11.04,1.74
-2026-09-11,823736,Scheduled,Cincinnati Reds,Milwaukee Brewers,,Kyle Harrison,,690986.0,,,,,,3.66,1.27,110.2,10.9,2.68
-2026-09-11,823659,Scheduled,Cleveland Guardians,Minnesota Twins,Parker Messick,,800048.0,,2.53,1.04,167.0,9.32,2.43,,,,,
-2026-09-11,823012,Scheduled,Chicago White Sox,St. Louis Cardinals,,,,,,,,,,,,,,
+2026-09-11,823736,Scheduled,Cincinnati Reds,Milwaukee Brewers,Andrew Abbott,Shane Drohan,671096.0,675660.0,4.43,1.42,152.1,7.09,4.14,4.09,1.31,114.1,9.05,3.07
+2026-09-11,823659,Scheduled,Cleveland Guardians,Minnesota Twins,Parker Messick,Taj Bradley,800048.0,671737.0,2.53,1.04,167.0,9.32,2.43,3.95,1.26,159.1,10.39,3.84
+2026-09-11,823012,Scheduled,Chicago White Sox,St. Louis Cardinals,,Matthew Liberatore,,669461.0,,,,,,5.57,1.47,139.0,9.32,3.17
 2026-09-11,824954,Scheduled,Seattle Mariners,Athletics,,Jeffrey Springs,,605488.0,,,,,,6.02,1.45,130.0,7.2,3.6
 2026-09-11,825036,Scheduled,Texas Rangers,Arizona Diamondbacks,,,,,,,,,,,,,,
-2026-09-11,823173,Scheduled,San Diego Padres,San Francisco Giants,,,,,,,,,,,,,,
+2026-09-11,823173,Scheduled,San Diego Padres,San Francisco Giants,Robbie Ray,Anthony Molina,592662.0,683627.0,3.39,1.34,151.1,7.55,4.58,2.79,0.88,19.1,6.98,1.4
+2026-09-12,824224,Scheduled,Colorado Rockies,Detroit Tigers,,,,,,,,,,,,,,
+2026-09-12,823496,Scheduled,New York Mets,New York Yankees,Zac Thornton,,804267.0,,3.53,1.19,66.1,6.92,2.04,,,,,
+2026-09-12,824630,Scheduled,Pittsburgh Pirates,Chicago Cubs,,Clay Holmes,,605280.0,,,,,,2.83,1.12,86.0,6.8,3.14
+2026-09-12,822768,Scheduled,Baltimore Orioles,Toronto Blue Jays,Kyle Bradish,,680694.0,,3.91,1.42,152.0,8.29,4.03,,,,,
+2026-09-12,822685,Scheduled,Los Angeles Angels,Washington Nationals,Walbert Ureña,Andrew Alvarez,700712.0,674841.0,2.74,1.21,131.1,8.5,4.45,3.6,1.32,95.0,8.62,4.07
+2026-09-12,823170,Scheduled,San Diego Padres,San Francisco Giants,Michael King,Cesar Perdomo,650633.0,702885.0,3.0,1.17,168.0,7.71,3.54,0.9,0.8,10.0,7.2,1.8
+2026-09-12,824712,Scheduled,Kansas City Royals,Boston Red Sox,Randy Dobnak,Ranger Suarez,677976.0,624133.0,2.54,1.32,63.2,6.08,3.25,3.44,1.22,130.2,8.4,2.76
+2026-09-12,823657,Scheduled,Cleveland Guardians,Minnesota Twins,,,,,,,,,,,,,,
+2026-09-12,823819,Scheduled,Los Angeles Dodgers,Miami Marlins,,Tyler Phillips,,663969.0,,,,,,3.51,1.33,115.1,7.26,3.75
+2026-09-12,822927,Scheduled,Houston Astros,Tampa Bay Rays,,,,,,,,,,,,,,
+2026-09-12,823737,Scheduled,Cincinnati Reds,Milwaukee Brewers,Brady Singer,,663903.0,,5.03,1.47,146.2,7.36,3.13,,,,,
+2026-09-12,824870,Scheduled,Philadelphia Phillies,Atlanta Braves,,,,,,,,,,,,,,
+2026-09-12,823009,Scheduled,Chicago White Sox,St. Louis Cardinals,,Kyle Leahy,,681517.0,,,,,,3.41,1.33,132.0,8.45,2.59
+2026-09-12,825035,Scheduled,Texas Rangers,Arizona Diamondbacks,,,,,,,,,,,,,,
+2026-09-12,824955,Scheduled,Seattle Mariners,Athletics,,Gage Jump,,695611.0,,,,,,5.12,1.49,96.2,9.87,4.19
