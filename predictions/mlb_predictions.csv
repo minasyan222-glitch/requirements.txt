@@ -1,40 +1,40 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-09-16,Chicago White Sox,Cleveland Guardians,Anthony Kay,Parker Messick,0.7443,0.0412,high,0.7856,0.2144,1.273,4.663,,,NO BET,,,,,0.0
-2026-09-16,San Francisco Giants,St. Louis Cardinals,Anthony Molina,Matthew Liberatore,0.5126,-0.0155,medium,0.4973,0.5027,2.011,1.989,,,NO BET,,,,,0.0
-2026-09-16,New York Yankees,Minnesota Twins,Carlos Rodón,Zebby Matthews,0.2802,-0.032,high,0.2482,0.7518,4.029,1.33,,,NO BET,,,,,0.0
-2026-09-16,Detroit Tigers,Toronto Blue Jays,Keider Montero,Max Scherzer,0.697,-0.051,high,0.6461,0.3539,1.548,2.825,,,NO BET,,,,,0.0
-2026-09-16,Los Angeles Dodgers,Cincinnati Reds,Blake Snell,Andrew Abbott,0.4695,-0.0529,medium,0.4216,0.5784,2.372,1.729,,,NO BET,,,,,0.0
-2026-09-16,Athletics,Tampa Bay Rays,Brady Basso,Nick Martinez,0.5679,0.0273,medium,0.5895,0.4105,1.696,2.436,,,NO BET,,,,,0.0
-2026-09-16,Milwaukee Brewers,Pittsburgh Pirates,Logan Henderson,Jared Jones,0.4715,-0.0406,high,0.4309,0.5691,2.321,1.757,,,NO BET,,,,,0.0
-2026-09-16,Philadelphia Phillies,Washington Nationals,Zack Wheeler,Jared Simpson,0.3367,0.0,low,0.3563,0.6437,2.806,1.554,,,NO BET,,,,,0.0
-2026-09-16,Baltimore Orioles,New York Mets,Chris Bassitt,Robert Stock,0.4938,-0.0206,medium,0.4748,0.5252,2.106,1.904,,,NO BET,,,,,0.0
-2026-09-16,Atlanta Braves,Chicago Cubs,JR Ritchie,Shota Imanaga,0.566,0.0229,medium,0.5836,0.4164,1.714,2.401,,,NO BET,,,,,0.0
-2026-09-16,Boston Red Sox,Texas Rangers,Jake Bennett,MacKenzie Gore,0.4366,-0.0252,high,0.4114,0.5886,2.43,1.699,,,NO BET,,,,,0.0
-2026-09-16,Kansas City Royals,Houston Astros,Daniel Lynch IV,Cristian Javier,0.532,-0.0418,medium,0.4908,0.5092,2.037,1.964,,,NO BET,,,,,0.0
-2026-09-16,San Diego Padres,Colorado Rockies,Robbie Ray,Mason Adams,0.2697,0.0,low,0.2973,0.7027,3.363,1.423,,,NO BET,,,,,0.0
-2026-09-16,Seattle Mariners,Los Angeles Angels,George Kirby,Yusei Kikuchi,0.3173,-0.0125,medium,0.3165,0.6835,3.16,1.463,,,NO BET,,,,,0.0
-2026-09-16,Miami Marlins,Arizona Diamondbacks,Ryan Gusto,Merrill Kelly,0.513,-0.013,high,0.5,0.5,2.0,2.0,,,NO BET,,,,,0.0
-2026-09-17,Milwaukee Brewers,Pittsburgh Pirates,Dustin May,,0.4715,0.0,low,0.4749,0.5251,2.106,1.905,,,NO BET,,,,,0.0
-2026-09-17,Los Angeles Dodgers,Cincinnati Reds,,Brady Singer,0.4695,0.0,low,0.4731,0.5269,2.114,1.898,,,NO BET,,,,,0.0
+2026-09-17,Milwaukee Brewers,Pittsburgh Pirates,Kyle Harrison,Wilber Dotel,0.4715,-0.0128,medium,0.4612,0.5388,2.168,1.856,,,NO BET,,,,,0.0
+2026-09-17,Los Angeles Dodgers,Cincinnati Reds,Justin Wrobleski,Brady Singer,0.4695,-0.0367,high,0.4328,0.5672,2.311,1.763,,,NO BET,,,,,0.0
 2026-09-17,Athletics,Tampa Bay Rays,Jeffrey Springs,Drew Rasmussen,0.5679,0.06,high,0.6279,0.3721,1.592,2.688,,,NO BET,,,,,0.0
 2026-09-17,San Diego Padres,Colorado Rockies,Michael King,Tanner Gordon,0.2697,-0.0467,high,0.2229,0.7771,4.486,1.287,,,NO BET,,,,,0.0
 2026-09-17,Kansas City Royals,Houston Astros,Seth Lugo,,0.532,0.0,low,0.5282,0.4718,1.893,2.119,,,NO BET,,,,,0.0
-2026-09-17,Philadelphia Phillies,New York Mets,,Nolan McLean,0.3857,0.0,low,0.3994,0.6006,2.504,1.665,,,NO BET,,,,,0.0
-2026-09-17,Detroit Tigers,Chicago White Sox,,,0.5045,0.0,low,0.504,0.496,1.984,2.016,,,NO BET,,,,,0.0
-2026-09-17,Boston Red Sox,Texas Rangers,Sonny Gray,,0.4366,0.0,low,0.4442,0.5558,2.251,1.799,,,NO BET,,,,,0.0
-2026-09-17,Minnesota Twins,Los Angeles Angels,,,0.5273,0.0,low,0.524,0.476,1.908,2.101,,,NO BET,,,,,0.0
+2026-09-17,Philadelphia Phillies,New York Mets,Aaron Nola,Nolan McLean,0.3857,0.0269,high,0.4126,0.5874,2.424,1.702,,,NO BET,,,,,0.0
+2026-09-17,Detroit Tigers,Chicago White Sox,Framber Valdez,Erick Fedde,0.5045,0.0015,high,0.506,0.494,1.976,2.024,,,NO BET,,,,,0.0
+2026-09-17,Boston Red Sox,Texas Rangers,Sonny Gray,Tyler Alexander,0.4366,-0.0129,high,0.4237,0.5763,2.36,1.735,,,NO BET,,,,,0.0
+2026-09-17,Minnesota Twins,Los Angeles Angels,Taj Bradley,Walbert Ureña,0.5273,0.0117,high,0.5389,0.4611,1.855,2.169,,,NO BET,,,,,0.0
 2026-09-18,Chicago Cubs,Cincinnati Reds,,Chase Burns,0.5512,0.0,low,0.5451,0.4549,1.835,2.198,,,NO BET,,,,,0.0
 2026-09-18,Kansas City Royals,Pittsburgh Pirates,,,0.5163,0.0,low,0.5143,0.4857,1.944,2.059,,,NO BET,,,,,0.0
-2026-09-18,Milwaukee Brewers,Baltimore Orioles,,,0.4834,0.0,low,0.4854,0.5146,2.06,1.943,,,NO BET,,,,,0.0
-2026-09-18,Athletics,Cleveland Guardians,,,0.724,0.0,low,0.6971,0.3029,1.434,3.302,,,NO BET,,,,,0.0
+2026-09-18,Milwaukee Brewers,Baltimore Orioles,Dustin May,,0.4834,0.0,low,0.4854,0.5146,2.06,1.943,,,NO BET,,,,,0.0
+2026-09-18,Athletics,Cleveland Guardians,,Daniel Espino,0.724,0.0,low,0.6971,0.3029,1.434,3.302,,,NO BET,,,,,0.0
 2026-09-18,Boston Red Sox,Tampa Bay Rays,,,0.3962,0.0,low,0.4086,0.5914,2.447,1.691,,,NO BET,,,,,0.0
 2026-09-18,Philadelphia Phillies,New York Mets,,Zac Thornton,0.3857,0.0,low,0.3994,0.6006,2.504,1.665,,,NO BET,,,,,0.0
-2026-09-18,Detroit Tigers,Chicago White Sox,,,0.5045,0.0,low,0.504,0.496,1.984,2.016,,,NO BET,,,,,0.0
+2026-09-18,Detroit Tigers,Chicago White Sox,Andrew Sears,,0.5045,0.0,low,0.504,0.496,1.984,2.016,,,NO BET,,,,,0.0
 2026-09-18,Toronto Blue Jays,Texas Rangers,Dylan Cease,,0.4327,0.0,low,0.4408,0.5592,2.269,1.788,,,NO BET,,,,,0.0
-2026-09-18,Seattle Mariners,Colorado Rockies,,,0.2272,0.0,low,0.2599,0.7401,3.847,1.351,,,NO BET,,,,,0.0
-2026-09-18,Atlanta Braves,Houston Astros,,,0.5388,0.0,low,0.5341,0.4659,1.872,2.147,,,NO BET,,,,,0.0
+2026-09-18,Seattle Mariners,Colorado Rockies,Bryan Woo,,0.2272,0.0,low,0.2599,0.7401,3.847,1.351,,,NO BET,,,,,0.0
+2026-09-18,Atlanta Braves,Houston Astros,Tyler Mahle,,0.5388,0.0,low,0.5341,0.4659,1.872,2.147,,,NO BET,,,,,0.0
 2026-09-18,Washington Nationals,St. Louis Cardinals,Cade Cavalli,Kyle Leahy,0.5933,-0.0095,high,0.5838,0.4162,1.713,2.403,,,NO BET,,,,,0.0
-2026-09-18,Minnesota Twins,Los Angeles Angels,,,0.5273,0.0,low,0.524,0.476,1.908,2.101,,,NO BET,,,,,0.0
-2026-09-18,Miami Marlins,San Diego Padres,,,0.5507,0.0,low,0.5446,0.4554,1.836,2.196,,,NO BET,,,,,0.0
-2026-09-18,New York Yankees,Arizona Diamondbacks,,,0.39,0.0,low,0.4032,0.5968,2.48,1.676,,,NO BET,,,,,0.0
-2026-09-18,San Francisco Giants,Los Angeles Dodgers,,,0.6827,0.0,low,0.6607,0.3393,1.513,2.948,,,NO BET,,,,,0.0
+2026-09-18,Minnesota Twins,Los Angeles Angels,Connor Prielipp,Grayson Rodriguez,0.5273,-0.0213,high,0.506,0.494,1.976,2.024,,,NO BET,,,,,0.0
+2026-09-18,Miami Marlins,San Diego Padres,Tyler Phillips,,0.5507,0.0,low,0.5446,0.4554,1.836,2.196,,,NO BET,,,,,0.0
+2026-09-18,New York Yankees,Arizona Diamondbacks,Gerrit Cole,Eduardo Rodriguez,0.39,0.0081,high,0.3981,0.6019,2.512,1.661,,,NO BET,,,,,0.0
+2026-09-18,San Francisco Giants,Los Angeles Dodgers,Cesar Perdomo,,0.6827,0.0,low,0.6607,0.3393,1.513,2.948,,,NO BET,,,,,0.0
+2026-09-19,Milwaukee Brewers,Baltimore Orioles,Robert Gasser,,0.4834,0.0,low,0.4854,0.5146,2.06,1.943,,,NO BET,,,,,0.0
+2026-09-19,Boston Red Sox,Tampa Bay Rays,,,0.3962,0.0,low,0.4086,0.5914,2.447,1.691,,,NO BET,,,,,0.0
+2026-09-19,Philadelphia Phillies,New York Mets,,Christian Scott,0.3857,0.0,low,0.3994,0.6006,2.504,1.665,,,NO BET,,,,,0.0
+2026-09-19,Athletics,Cleveland Guardians,Jacob Lopez,Tanner Bibee,0.724,0.0253,high,0.7494,0.2506,1.334,3.99,,,NO BET,,,,,0.0
+2026-09-19,Chicago Cubs,Cincinnati Reds,,Nick Lodolo,0.5512,0.0,low,0.5451,0.4549,1.835,2.198,,,NO BET,,,,,0.0
+2026-09-19,Kansas City Royals,Pittsburgh Pirates,,,0.5163,0.0,low,0.5143,0.4857,1.944,2.059,,,NO BET,,,,,0.0
+2026-09-19,Toronto Blue Jays,Texas Rangers,José Soriano,,0.4327,0.0,low,0.4408,0.5592,2.269,1.788,,,NO BET,,,,,0.0
+2026-09-19,Atlanta Braves,Houston Astros,Grant Holmes,,0.5388,0.0,low,0.5341,0.4659,1.872,2.147,,,NO BET,,,,,0.0
+2026-09-19,Detroit Tigers,Chicago White Sox,Jackson Jobe,,0.5045,0.0,low,0.504,0.496,1.984,2.016,,,NO BET,,,,,0.0
+2026-09-19,Washington Nationals,St. Louis Cardinals,Andrew Alvarez,Michael McGreevy,0.5933,-0.0043,high,0.589,0.411,1.698,2.433,,,NO BET,,,,,0.0
+2026-09-19,Seattle Mariners,Colorado Rockies,Bryce Miller,,0.2272,0.0,low,0.2599,0.7401,3.847,1.351,,,NO BET,,,,,0.0
+2026-09-19,New York Yankees,Arizona Diamondbacks,Cam Schlittler,Brandon Pfaadt,0.39,-0.0353,high,0.3547,0.6453,2.82,1.55,,,NO BET,,,,,0.0
+2026-09-19,Miami Marlins,San Diego Padres,Eury Pérez,,0.5507,0.0,low,0.5446,0.4554,1.836,2.196,,,NO BET,,,,,0.0
+2026-09-19,San Francisco Giants,Los Angeles Dodgers,,,0.6827,0.0,low,0.6607,0.3393,1.513,2.948,,,NO BET,,,,,0.0
+2026-09-19,Minnesota Twins,Los Angeles Angels,Joe Ryan,Reid Detmers,0.5273,0.0113,high,0.5385,0.4615,1.857,2.167,,,NO BET,,,,,0.0
