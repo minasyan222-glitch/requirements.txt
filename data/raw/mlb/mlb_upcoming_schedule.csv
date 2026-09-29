@@ -1,9 +1,13 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-09-29,849845,Scheduled,Philadelphia Phillies,Atlanta Braves,,,,,,,,,,,,,,
-2026-09-29,849849,Scheduled,Chicago White Sox,Houston Astros,,,,,,,,,,,,,,
-2026-09-29,849851,Scheduled,Boston Red Sox,New York Yankees,,Cam Schlittler,,693645.0,,,,,,1.95,0.92,193.2,11.11,2.28
-2026-09-29,849843,Scheduled,Chicago Cubs,San Diego Padres,,Michael King,,650633.0,,,,,,3.21,1.18,185.0,7.74,3.41
-2026-09-30,849841,Scheduled,Philadelphia Phillies,Atlanta Braves,,,,,,,,,,,,,,
+2026-09-29,849845,Scheduled,Philadelphia Phillies,Atlanta Braves,Jesús Luzardo,Chris Sale,666200.0,519242.0,2.86,1.07,179.2,11.07,2.6,2.16,0.98,162.2,11.07,1.72
+2026-09-29,849849,Scheduled,Chicago White Sox,Houston Astros,Hagen Smith,AJ Blubaugh,696146.0,805123.0,1.29,0.96,28.0,13.18,5.14,3.66,1.23,96.0,8.81,3.94
+2026-09-29,849851,Scheduled,Boston Red Sox,New York Yankees,Payton Tolle,Cam Schlittler,801139.0,693645.0,3.03,1.1,148.2,10.35,2.42,1.95,0.92,193.2,11.11,2.28
+2026-09-29,849843,Scheduled,Chicago Cubs,San Diego Padres,Matthew Boyd,Michael King,571510.0,650633.0,3.91,1.21,126.2,6.82,2.77,3.21,1.18,185.0,7.74,3.41
+2026-09-30,849841,Scheduled,Philadelphia Phillies,Atlanta Braves,Cristopher Sánchez,,650911.0,,2.91,1.2,207.0,10.04,1.96,,,,,
 2026-09-30,849846,Scheduled,Chicago White Sox,Houston Astros,,,,,,,,,,,,,,
-2026-09-30,849848,Scheduled,Boston Red Sox,New York Yankees,,Max Fried,,608331.0,,,,,,2.8,0.99,112.2,8.31,2.64
+2026-09-30,849848,Scheduled,Boston Red Sox,New York Yankees,Sonny Gray,Max Fried,543243.0,608331.0,2.72,1.15,169.0,7.93,2.45,2.8,0.99,112.2,8.31,2.64
 2026-09-30,849842,Scheduled,Chicago Cubs,San Diego Padres,,,,,,,,,,,,,,
+2026-10-01,849844,Scheduled,Philadelphia Phillies,Atlanta Braves,,,,,,,,,,,,,,
+2026-10-01,849850,Scheduled,Chicago White Sox,Houston Astros,,,,,,,,,,,,,,
+2026-10-01,849847,Scheduled,Boston Red Sox,New York Yankees,Ranger Suarez,Gerrit Cole,624133.0,543037.0,3.22,1.19,148.1,8.49,2.79,3.61,1.1,127.0,9.28,1.77
+2026-10-01,849840,Scheduled,Chicago Cubs,San Diego Padres,,,,,,,,,,,,,,

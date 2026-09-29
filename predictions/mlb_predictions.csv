@@ -1,9 +1,13 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-09-29,Philadelphia Phillies,Atlanta Braves,,,0.4556,0.0,low,0.4609,0.5391,2.17,1.855,,,NO BET,,,,,0.0
-2026-09-29,Chicago White Sox,Houston Astros,,,0.6665,0.0,low,0.6466,0.3534,1.547,2.829,,,NO BET,,,,,0.0
-2026-09-29,Boston Red Sox,New York Yankees,,Cam Schlittler,0.6252,0.0,low,0.6101,0.3899,1.639,2.565,,,NO BET,,,,,0.0
-2026-09-29,Chicago Cubs,San Diego Padres,,Michael King,0.5529,0.0,low,0.5465,0.4535,1.83,2.205,,,NO BET,,,,,0.0
-2026-09-30,Philadelphia Phillies,Atlanta Braves,,,0.4556,0.0,low,0.4609,0.5391,2.17,1.855,,,NO BET,,,,,0.0
+2026-09-29,Philadelphia Phillies,Atlanta Braves,Jesús Luzardo,Chris Sale,0.4556,0.0129,high,0.4685,0.5315,2.134,1.881,,,NO BET,,,,,0.0
+2026-09-29,Chicago White Sox,Houston Astros,Hagen Smith,AJ Blubaugh,0.6665,-0.0419,medium,0.6171,0.3829,1.62,2.612,,,NO BET,,,,,0.0
+2026-09-29,Boston Red Sox,New York Yankees,Payton Tolle,Cam Schlittler,0.6252,0.022,high,0.6471,0.3529,1.545,2.834,,,NO BET,,,,,0.0
+2026-09-29,Chicago Cubs,San Diego Padres,Matthew Boyd,Michael King,0.5529,0.0099,high,0.5628,0.4372,1.777,2.287,,,NO BET,,,,,0.0
+2026-09-30,Philadelphia Phillies,Atlanta Braves,Cristopher Sánchez,,0.4556,0.0,low,0.4609,0.5391,2.17,1.855,,,NO BET,,,,,0.0
 2026-09-30,Chicago White Sox,Houston Astros,,,0.6665,0.0,low,0.6466,0.3534,1.547,2.829,,,NO BET,,,,,0.0
-2026-09-30,Boston Red Sox,New York Yankees,,Max Fried,0.6252,0.0,low,0.6101,0.3899,1.639,2.565,,,NO BET,,,,,0.0
+2026-09-30,Boston Red Sox,New York Yankees,Sonny Gray,Max Fried,0.6252,0.007,high,0.6322,0.3678,1.582,2.719,,,NO BET,,,,,0.0
 2026-09-30,Chicago Cubs,San Diego Padres,,,0.5529,0.0,low,0.5465,0.4535,1.83,2.205,,,NO BET,,,,,0.0
+2026-10-01,Philadelphia Phillies,Atlanta Braves,,,0.4556,0.0,low,0.4609,0.5391,2.17,1.855,,,NO BET,,,,,0.0
+2026-10-01,Chicago White Sox,Houston Astros,,,0.6665,0.0,low,0.6466,0.3534,1.547,2.829,,,NO BET,,,,,0.0
+2026-10-01,Boston Red Sox,New York Yankees,Ranger Suarez,Gerrit Cole,0.6252,-0.0002,high,0.625,0.375,1.6,2.667,,,NO BET,,,,,0.0
+2026-10-01,Chicago Cubs,San Diego Padres,,,0.5529,0.0,low,0.5465,0.4535,1.83,2.205,,,NO BET,,,,,0.0
