@@ -1,9 +1,6 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-09-30,849841,Scheduled,Philadelphia Phillies,Atlanta Braves,Cristopher Sánchez,Tyler Mahle,650911.0,641816.0,2.91,1.2,207.0,10.04,1.96,3.99,1.23,149.0,8.28,2.78
-2026-09-30,849846,Scheduled,Chicago White Sox,Houston Astros,Sean Burke,Hunter Brown,680732.0,686613.0,3.34,1.2,172.1,9.66,3.24,3.19,1.27,107.1,10.4,4.61
-2026-09-30,849848,Scheduled,Boston Red Sox,New York Yankees,Sonny Gray,Max Fried,543243.0,608331.0,2.72,1.15,169.0,7.93,2.45,2.8,0.99,112.2,8.31,2.64
-2026-09-30,849842,Scheduled,Chicago Cubs,San Diego Padres,Kevin Gausman,Nick Pivetta,592332.0,601713.0,4.51,1.27,177.2,9.32,2.38,2.86,1.01,34.2,10.9,2.08
 2026-10-01,849844,Scheduled,Philadelphia Phillies,Atlanta Braves,,,,,,,,,,,,,,
-2026-10-01,849850,Scheduled,Chicago White Sox,Houston Astros,,,,,,,,,,,,,,
-2026-10-01,849847,Scheduled,Boston Red Sox,New York Yankees,Ranger Suarez,Gerrit Cole,624133.0,543037.0,3.22,1.19,148.1,8.49,2.79,3.61,1.1,127.0,9.28,1.77
-2026-10-01,849840,Scheduled,Chicago Cubs,San Diego Padres,,,,,,,,,,,,,,
+2026-10-03,849829,Scheduled,Chicago White Sox,Cleveland Guardians,,,,,,,,,,,,,,
+2026-10-03,849828,Scheduled,ATL/PHI,Los Angeles Dodgers,,,,,,,,,,,,,,
+2026-10-03,849835,Scheduled,New York Yankees,Tampa Bay Rays,,Drew Rasmussen,,656876.0,,,,,,2.67,0.91,172.0,9.1,1.67
+2026-10-03,849830,Scheduled,San Diego Padres,Milwaukee Brewers,,Jacob Misiorowski,,694819.0,,,,,,1.8,0.8,174.2,12.98,2.27
