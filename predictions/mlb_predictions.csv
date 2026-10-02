@@ -1,6 +1,7 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-10-01,Philadelphia Phillies,Atlanta Braves,,,0.4556,0.0,low,0.4609,0.5391,2.17,1.855,,,NO BET,,,,,0.0
-2026-10-03,Chicago White Sox,Cleveland Guardians,,,0.7443,0.0,low,0.715,0.285,1.399,3.509,,,NO BET,,,,,0.0
-2026-10-03,ATL/PHI,Los Angeles Dodgers,,,0.6645,0.0,low,0.6448,0.3552,1.551,2.815,,,NO BET,,,,,0.0
+2026-10-03,Chicago White Sox,Cleveland Guardians,,Parker Messick,0.7443,0.0,low,0.715,0.285,1.399,3.509,,,NO BET,,,,,0.0
+2026-10-03,Atlanta Braves,Los Angeles Dodgers,,,0.6441,0.0,low,0.6268,0.3732,1.595,2.68,,,NO BET,,,,,0.0
 2026-10-03,New York Yankees,Tampa Bay Rays,,Drew Rasmussen,0.3249,0.0,low,0.3459,0.6541,2.891,1.529,,,NO BET,,,,,0.0
 2026-10-03,San Diego Padres,Milwaukee Brewers,,Jacob Misiorowski,0.5826,0.0,low,0.5727,0.4273,1.746,2.34,,,NO BET,,,,,0.0
+2026-10-04,San Diego Padres,Milwaukee Brewers,,Logan Henderson,0.5826,0.0,low,0.5727,0.4273,1.746,2.34,,,NO BET,,,,,0.0
+2026-10-04,Atlanta Braves,Los Angeles Dodgers,,,0.6441,0.0,low,0.6268,0.3732,1.595,2.68,,,NO BET,,,,,0.0
