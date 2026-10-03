@@ -1,7 +1,9 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-10-03,Chicago White Sox,Cleveland Guardians,,Parker Messick,0.7443,0.0,low,0.715,0.285,1.399,3.509,,,NO BET,,,,,0.0
-2026-10-03,Atlanta Braves,Los Angeles Dodgers,,,0.6441,0.0,low,0.6268,0.3732,1.595,2.68,,,NO BET,,,,,0.0
-2026-10-03,New York Yankees,Tampa Bay Rays,,Drew Rasmussen,0.3249,0.0,low,0.3459,0.6541,2.891,1.529,,,NO BET,,,,,0.0
-2026-10-03,San Diego Padres,Milwaukee Brewers,,Jacob Misiorowski,0.5826,0.0,low,0.5727,0.4273,1.746,2.34,,,NO BET,,,,,0.0
-2026-10-04,San Diego Padres,Milwaukee Brewers,,Logan Henderson,0.5826,0.0,low,0.5727,0.4273,1.746,2.34,,,NO BET,,,,,0.0
+2026-10-03,Chicago White Sox,Cleveland Guardians,Hagen Smith,Parker Messick,0.7443,-0.0202,medium,0.7106,0.2894,1.407,3.456,,,NO BET,,,,,0.0
+2026-10-03,Atlanta Braves,Los Angeles Dodgers,,Tarik Skubal,0.6441,0.0,low,0.6268,0.3732,1.595,2.68,,,NO BET,,,,,0.0
+2026-10-03,New York Yankees,Tampa Bay Rays,Gerrit Cole,Drew Rasmussen,0.3249,0.0208,high,0.3456,0.6544,2.893,1.528,,,NO BET,,,,,0.0
+2026-10-03,San Diego Padres,Milwaukee Brewers,Robbie Ray,Jacob Misiorowski,0.5826,0.049,high,0.6316,0.3684,1.583,2.714,,,NO BET,,,,,0.0
+2026-10-04,San Diego Padres,Milwaukee Brewers,Michael King,Logan Henderson,0.5826,0.0259,high,0.6085,0.3915,1.643,2.554,,,NO BET,,,,,0.0
 2026-10-04,Atlanta Braves,Los Angeles Dodgers,,,0.6441,0.0,low,0.6268,0.3732,1.595,2.68,,,NO BET,,,,,0.0
+2026-10-05,Chicago White Sox,Cleveland Guardians,,Gavin Williams,0.7443,0.0,low,0.715,0.285,1.399,3.509,,,NO BET,,,,,0.0
+2026-10-05,New York Yankees,Tampa Bay Rays,Cam Schlittler,,0.3249,0.0,low,0.3459,0.6541,2.891,1.529,,,NO BET,,,,,0.0

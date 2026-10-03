@@ -1,7 +1,9 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-03,849829,Scheduled,Chicago White Sox,Cleveland Guardians,,Parker Messick,,800048.0,,,,,,2.56,1.06,186.1,9.32,2.37
-2026-10-03,849828,Scheduled,Atlanta Braves,Los Angeles Dodgers,,,,,,,,,,,,,,
-2026-10-03,849835,Scheduled,New York Yankees,Tampa Bay Rays,,Drew Rasmussen,,656876.0,,,,,,2.67,0.91,172.0,9.1,1.67
-2026-10-03,849830,Scheduled,San Diego Padres,Milwaukee Brewers,,Jacob Misiorowski,,694819.0,,,,,,1.8,0.8,174.2,12.98,2.27
-2026-10-04,849825,Scheduled,San Diego Padres,Milwaukee Brewers,,Logan Henderson,,701656.0,,,,,,2.47,0.84,98.1,10.07,1.74
+2026-10-03,849829,Scheduled,Chicago White Sox,Cleveland Guardians,Hagen Smith,Parker Messick,696146.0,800048.0,1.29,0.96,28.0,13.18,5.14,2.56,1.06,186.1,9.32,2.37
+2026-10-03,849828,Scheduled,Atlanta Braves,Los Angeles Dodgers,,Tarik Skubal,,669373.0,,,,,,2.72,0.96,158.2,10.55,1.53
+2026-10-03,849835,Scheduled,New York Yankees,Tampa Bay Rays,Gerrit Cole,Drew Rasmussen,543037.0,656876.0,3.61,1.1,127.0,9.28,1.77,2.67,0.91,172.0,9.1,1.67
+2026-10-03,849830,Scheduled,San Diego Padres,Milwaukee Brewers,Robbie Ray,Jacob Misiorowski,592662.0,694819.0,3.59,1.35,165.2,7.61,4.56,1.8,0.8,174.2,12.98,2.27
+2026-10-04,849825,Scheduled,San Diego Padres,Milwaukee Brewers,Michael King,Logan Henderson,650633.0,701656.0,3.21,1.18,185.0,7.74,3.41,2.47,0.84,98.1,10.07,1.74
 2026-10-04,849823,Scheduled,Atlanta Braves,Los Angeles Dodgers,,,,,,,,,,,,,,
+2026-10-05,849834,Scheduled,Chicago White Sox,Cleveland Guardians,,Gavin Williams,,668909.0,,,,,,3.76,1.11,184.1,12.11,2.98
+2026-10-05,849839,Scheduled,New York Yankees,Tampa Bay Rays,Cam Schlittler,,693645.0,,1.95,0.92,193.2,11.11,2.28,,,,,
