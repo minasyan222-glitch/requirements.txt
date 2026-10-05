@@ -1,7 +1,9 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-10-04,San Diego Padres,Milwaukee Brewers,Michael King,Logan Henderson,0.5826,0.0259,high,0.6085,0.3915,1.643,2.554,,,NO BET,,,,,0.0
-2026-10-04,Atlanta Braves,Los Angeles Dodgers,,Blake Snell,0.6441,0.0,low,0.6268,0.3732,1.595,2.68,,,NO BET,,,,,0.0
-2026-10-05,Chicago White Sox,Cleveland Guardians,,Gavin Williams,0.7443,0.0,low,0.715,0.285,1.399,3.509,,,NO BET,,,,,0.0
+2026-10-05,Chicago White Sox,Cleveland Guardians,Anthony Kay,Gavin Williams,0.7443,0.0212,high,0.7655,0.2345,1.306,4.264,,,NO BET,,,,,0.0
 2026-10-05,New York Yankees,Tampa Bay Rays,Cam Schlittler,Freddy Peralta,0.3249,-0.0501,high,0.2747,0.7253,3.64,1.379,,,NO BET,,,,,0.0
-2026-10-06,Los Angeles Dodgers,Atlanta Braves,,,0.4526,0.0,low,0.4583,0.5417,2.182,1.846,,,NO BET,,,,,0.0
-2026-10-06,Milwaukee Brewers,San Diego Padres,,,0.5174,0.0,low,0.5153,0.4847,1.941,2.063,,,NO BET,,,,,0.0
+2026-10-06,Los Angeles Dodgers,Atlanta Braves,Yoshinobu Yamamoto,Chris Sale,0.4526,-0.0011,high,0.4515,0.5485,2.215,1.823,,,NO BET,,,,,0.0
+2026-10-06,Milwaukee Brewers,San Diego Padres,Dustin May,Nick Pivetta,0.5174,0.0376,medium,0.5517,0.4483,1.813,2.23,,,NO BET,,,,,0.0
+2026-10-07,Cleveland Guardians,Chicago White Sox,,,0.3395,0.0,low,0.3587,0.6413,2.788,1.559,,,NO BET,,,,,0.0
+2026-10-07,Los Angeles Dodgers,Atlanta Braves,,,0.4526,0.0,low,0.4583,0.5417,2.182,1.846,,,NO BET,,,,,0.0
+2026-10-07,Tampa Bay Rays,New York Yankees,,,0.7567,0.0,low,0.7259,0.2741,1.378,3.648,,,NO BET,,,,,0.0
+2026-10-07,Milwaukee Brewers,San Diego Padres,,,0.5174,0.0,low,0.5153,0.4847,1.941,2.063,,,NO BET,,,,,0.0
