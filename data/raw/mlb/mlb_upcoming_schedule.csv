@@ -1,9 +1,9 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-05,849834,Scheduled,Chicago White Sox,Cleveland Guardians,Anthony Kay,Gavin Williams,641743.0,668909.0,4.44,1.37,158.0,7.35,3.19,3.76,1.11,184.1,12.11,2.98
-2026-10-05,849839,Scheduled,New York Yankees,Tampa Bay Rays,Cam Schlittler,Freddy Peralta,693645.0,642547.0,1.95,0.92,193.2,11.11,2.28,4.42,1.33,169.0,8.31,3.36
 2026-10-06,849819,Scheduled,Los Angeles Dodgers,Atlanta Braves,Yoshinobu Yamamoto,Chris Sale,808967.0,519242.0,2.53,0.87,185.0,8.85,2.04,2.16,0.98,162.2,11.07,1.72
 2026-10-06,849826,Scheduled,Milwaukee Brewers,San Diego Padres,Dustin May,Nick Pivetta,669160.0,601713.0,4.7,1.32,145.2,8.9,3.09,2.86,1.01,34.2,10.9,2.08
 2026-10-07,849833,Scheduled,Cleveland Guardians,Chicago White Sox,,,,,,,,,,,,,,
 2026-10-07,849822,Scheduled,Los Angeles Dodgers,Atlanta Braves,,,,,,,,,,,,,,
-2026-10-07,849838,Scheduled,Tampa Bay Rays,New York Yankees,,,,,,,,,,,,,,
+2026-10-07,849838,Scheduled,Tampa Bay Rays,New York Yankees,Nick Martinez,Max Fried,607259.0,608331.0,3.1,1.09,180.0,5.45,1.3,2.8,0.99,112.2,8.31,2.64
 2026-10-07,849827,Scheduled,Milwaukee Brewers,San Diego Padres,,,,,,,,,,,,,,
+2026-10-08,849832,Scheduled,Cleveland Guardians,Chicago White Sox,,,,,,,,,,,,,,
+2026-10-08,849837,Scheduled,Tampa Bay Rays,New York Yankees,,Carlos Rodón,,607074.0,,,,,,2.67,1.06,84.1,9.71,4.06
