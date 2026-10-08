@@ -1,9 +1,3 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-07,849833,Scheduled,Cleveland Guardians,Chicago White Sox,Daniel Espino,Sean Newcomb,682982.0,656794.0,4.11,1.24,15.1,14.67,4.11,3.09,1.18,90.1,8.37,3.39
-2026-10-07,849822,Scheduled,Los Angeles Dodgers,Atlanta Braves,Tyler Glasnow,Tyler Mahle,607192.0,641816.0,3.53,0.95,74.0,11.92,3.04,3.99,1.23,149.0,8.28,2.78
-2026-10-07,849838,Scheduled,Tampa Bay Rays,New York Yankees,Nick Martinez,Max Fried,607259.0,608331.0,3.1,1.09,180.0,5.45,1.3,2.8,0.99,112.2,8.31,2.64
-2026-10-07,849827,Scheduled,Milwaukee Brewers,San Diego Padres,,Walker Buehler,,621111.0,,,,,,4.63,1.35,153.2,7.67,3.34
-2026-10-08,849832,Scheduled,Cleveland Guardians,Chicago White Sox,,,,,,,,,,,,,,
-2026-10-08,849837,Scheduled,Tampa Bay Rays,New York Yankees,,Carlos Rodón,,607074.0,,,,,,2.67,1.06,84.1,9.71,4.06
-2026-10-09,849824,Scheduled,San Diego Padres,Milwaukee Brewers,,,,,,,,,,,,,,
-2026-10-09,849821,Scheduled,Atlanta Braves,Los Angeles Dodgers,,,,,,,,,,,,,,
+2026-10-08,849832,Scheduled,Cleveland Guardians,Chicago White Sox,Parker Messick,Hagen Smith,800048.0,696146.0,2.56,1.06,186.1,9.32,2.37,1.29,0.96,28.0,13.18,5.14
+2026-10-10,849831,Scheduled,Chicago White Sox,Cleveland Guardians,,,,,,,,,,,,,,
