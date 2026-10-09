@@ -1,3 +1,3 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-08,849832,Scheduled,Cleveland Guardians,Chicago White Sox,Parker Messick,Hagen Smith,800048.0,696146.0,2.56,1.06,186.1,9.32,2.37,1.29,0.96,28.0,13.18,5.14
 2026-10-10,849831,Scheduled,Chicago White Sox,Cleveland Guardians,,,,,,,,,,,,,,
+2026-10-11,849809,Scheduled,Los Angeles Dodgers,Milwaukee Brewers,,,,,,,,,,,,,,
