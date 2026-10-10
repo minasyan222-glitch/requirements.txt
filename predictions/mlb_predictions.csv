@@ -1,3 +1,5 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-10-10,Chicago White Sox,Cleveland Guardians,,,0.7443,0.0,low,0.715,0.285,1.399,3.509,,,NO BET,,,,,0.0
-2026-10-11,Los Angeles Dodgers,Milwaukee Brewers,,,0.5041,0.0,low,0.5036,0.4964,1.986,2.014,,,NO BET,,,,,0.0
+2026-10-10,Chicago White Sox,Cleveland Guardians,Sean Burke,Gavin Williams,0.7443,-0.0005,high,0.7438,0.2562,1.344,3.903,,,NO BET,,,,,0.0
+2026-10-11,Los Angeles Dodgers,Milwaukee Brewers,Tarik Skubal,,0.5041,0.0,low,0.5036,0.4964,1.986,2.014,,,NO BET,,,,,0.0
+2026-10-12,Los Angeles Dodgers,Milwaukee Brewers,Yoshinobu Yamamoto,,0.5041,0.0,low,0.5036,0.4964,1.986,2.014,,,NO BET,,,,,0.0
+2026-10-12,CLE/CWS,Tampa Bay Rays,,,0.4826,0.0,low,0.4847,0.5153,2.063,1.941,,,NO BET,,,,,0.0

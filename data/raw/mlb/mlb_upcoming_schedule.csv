@@ -1,3 +1,5 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-10,849831,Scheduled,Chicago White Sox,Cleveland Guardians,,,,,,,,,,,,,,
-2026-10-11,849809,Scheduled,Los Angeles Dodgers,Milwaukee Brewers,,,,,,,,,,,,,,
+2026-10-10,849831,Scheduled,Chicago White Sox,Cleveland Guardians,Sean Burke,Gavin Williams,680732.0,668909.0,3.34,1.2,172.1,9.66,3.24,3.76,1.11,184.1,12.11,2.98
+2026-10-11,849809,Scheduled,Los Angeles Dodgers,Milwaukee Brewers,Tarik Skubal,,669373.0,,2.72,0.96,158.2,10.55,1.53,,,,,
+2026-10-12,849812,Scheduled,Los Angeles Dodgers,Milwaukee Brewers,Yoshinobu Yamamoto,,808967.0,,2.53,0.87,185.0,8.85,2.04,,,,,
+2026-10-12,849820,Scheduled,CLE/CWS,Tampa Bay Rays,,,,,,,,,,,,,,
