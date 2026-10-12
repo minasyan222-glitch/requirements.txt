@@ -1,5 +1,5 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-11,849809,Scheduled,Los Angeles Dodgers,Milwaukee Brewers,Tarik Skubal,Jacob Misiorowski,669373.0,694819.0,2.72,0.96,158.2,10.55,1.53,1.8,0.8,174.2,12.98,2.27
-2026-10-12,849812,Scheduled,Los Angeles Dodgers,Milwaukee Brewers,Yoshinobu Yamamoto,,808967.0,,2.53,0.87,185.0,8.85,2.04,,,,,
-2026-10-12,849820,Scheduled,Cleveland Guardians,Tampa Bay Rays,,,,,,,,,,,,,,
+2026-10-12,849812,Scheduled,Los Angeles Dodgers,Milwaukee Brewers,Yoshinobu Yamamoto,Logan Henderson,808967.0,701656.0,2.53,0.87,185.0,8.85,2.04,2.47,0.84,98.1,10.07,1.74
+2026-10-12,849820,Scheduled,Cleveland Guardians,Tampa Bay Rays,Foster Griffin,Drew Rasmussen,656492.0,656876.0,3.6,1.21,172.2,8.24,2.35,2.67,0.91,172.0,9.1,1.67
 2026-10-13,849813,Scheduled,Cleveland Guardians,Tampa Bay Rays,,,,,,,,,,,,,,
+2026-10-14,849811,Scheduled,Milwaukee Brewers,Los Angeles Dodgers,Robert Gasser,,688107.0,,3.87,1.19,109.1,8.48,2.88,,,,,

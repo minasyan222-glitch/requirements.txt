@@ -1,5 +1,5 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-10-11,Los Angeles Dodgers,Milwaukee Brewers,Tarik Skubal,Jacob Misiorowski,0.5041,0.019,high,0.5231,0.4769,1.912,2.097,,,NO BET,,,,,0.0
-2026-10-12,Los Angeles Dodgers,Milwaukee Brewers,Yoshinobu Yamamoto,,0.5041,0.0,low,0.5036,0.4964,1.986,2.014,,,NO BET,,,,,0.0
-2026-10-12,Cleveland Guardians,Tampa Bay Rays,,,0.38,0.0,low,0.3944,0.6056,2.536,1.651,,,NO BET,,,,,0.0
+2026-10-12,Los Angeles Dodgers,Milwaukee Brewers,Yoshinobu Yamamoto,Logan Henderson,0.5041,0.0022,high,0.5063,0.4937,1.975,2.025,,,NO BET,,,,,0.0
+2026-10-12,Cleveland Guardians,Tampa Bay Rays,Foster Griffin,Drew Rasmussen,0.38,0.0262,high,0.4061,0.5939,2.462,1.684,,,NO BET,,,,,0.0
 2026-10-13,Cleveland Guardians,Tampa Bay Rays,,,0.38,0.0,low,0.3944,0.6056,2.536,1.651,,,NO BET,,,,,0.0
+2026-10-14,Milwaukee Brewers,Los Angeles Dodgers,Robert Gasser,,0.5955,0.0,low,0.584,0.416,1.712,2.404,,,NO BET,,,,,0.0
