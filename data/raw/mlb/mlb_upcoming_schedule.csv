@@ -1,5 +1,6 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-13,849813,Scheduled,Cleveland Guardians,Tampa Bay Rays,Parker Messick,Freddy Peralta,800048.0,642547.0,2.56,1.06,186.1,9.32,2.37,4.42,1.33,169.0,8.31,3.36
-2026-10-14,849811,Scheduled,Milwaukee Brewers,Los Angeles Dodgers,Robert Gasser,,688107.0,,3.87,1.19,109.1,8.48,2.88,,,,,
-2026-10-15,849818,Scheduled,Tampa Bay Rays,Cleveland Guardians,,,,,,,,,,,,,,
+2026-10-14,849811,Scheduled,Milwaukee Brewers,Los Angeles Dodgers,Robert Gasser,Blake Snell,688107.0,605483.0,3.87,1.19,109.1,8.48,2.88,1.9,1.1,42.2,11.6,3.38
+2026-10-15,849818,Scheduled,Tampa Bay Rays,Cleveland Guardians,Griffin Jax,,643377.0,,3.53,1.18,112.1,9.29,2.8,,,,,
 2026-10-15,849810,Scheduled,Milwaukee Brewers,Los Angeles Dodgers,,,,,,,,,,,,,,
+2026-10-16,849817,Scheduled,Tampa Bay Rays,Cleveland Guardians,,,,,,,,,,,,,,
+2026-10-16,849808,Scheduled,Milwaukee Brewers,Los Angeles Dodgers,,,,,,,,,,,,,,
