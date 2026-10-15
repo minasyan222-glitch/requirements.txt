@@ -1,6 +1,6 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-10-14,Milwaukee Brewers,Los Angeles Dodgers,Robert Gasser,Blake Snell,0.5955,0.0281,medium,0.6162,0.3838,1.623,2.606,,,NO BET,,,,,0.0
-2026-10-15,Tampa Bay Rays,Cleveland Guardians,Griffin Jax,,0.7094,0.0,low,0.6843,0.3157,1.461,3.167,,,NO BET,,,,,0.0
-2026-10-15,Milwaukee Brewers,Los Angeles Dodgers,,,0.5955,0.0,low,0.584,0.416,1.712,2.404,,,NO BET,,,,,0.0
+2026-10-15,Tampa Bay Rays,Cleveland Guardians,Griffin Jax,Gavin Williams,0.7094,0.0007,high,0.7102,0.2898,1.408,3.45,,,NO BET,,,,,0.0
+2026-10-15,Milwaukee Brewers,Los Angeles Dodgers,,Tyler Glasnow,0.5955,0.0,low,0.584,0.416,1.712,2.404,,,NO BET,,,,,0.0
 2026-10-16,Tampa Bay Rays,Cleveland Guardians,,,0.7094,0.0,low,0.6843,0.3157,1.461,3.167,,,NO BET,,,,,0.0
 2026-10-16,Milwaukee Brewers,Los Angeles Dodgers,,,0.5955,0.0,low,0.584,0.416,1.712,2.404,,,NO BET,,,,,0.0
+2026-10-17,Tampa Bay Rays,Cleveland Guardians,,,0.7094,0.0,low,0.6843,0.3157,1.461,3.167,,,NO BET,,,,,0.0
