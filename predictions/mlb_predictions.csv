@@ -1,3 +1,4 @@
 game_date,away_team,home_team,away_pitcher,home_pitcher,elo_home_probability,pitcher_adjustment,lineup_certainty,home_win_probability,away_win_probability,fair_home_decimal_odds,fair_away_decimal_odds,market_home_decimal_odds,market_away_decimal_odds,recommendation,selected_side,selected_odds,edge,ev,stake_units
-2026-10-16,Tampa Bay Rays,Cleveland Guardians,Nick Martinez,,0.7094,0.0,low,0.6843,0.3157,1.461,3.167,,,NO BET,,,,,0.0
-2026-10-17,Tampa Bay Rays,Cleveland Guardians,,,0.7094,0.0,low,0.6843,0.3157,1.461,3.167,,,NO BET,,,,,0.0
+2026-10-17,Tampa Bay Rays,Cleveland Guardians,Nick Martinez,Shawn Armstrong,0.7094,-0.0328,medium,0.6661,0.3339,1.501,2.995,,,NO BET,,,,,0.0
+2026-10-18,Tampa Bay Rays,Cleveland Guardians,,,0.7094,0.0,low,0.6843,0.3157,1.461,3.167,,,NO BET,,,,,0.0
+2026-10-19,Cleveland Guardians,Tampa Bay Rays,,,0.38,0.0,low,0.3944,0.6056,2.536,1.651,,,NO BET,,,,,0.0
