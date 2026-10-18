@@ -1,4 +1,4 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-17,849816,Scheduled,Tampa Bay Rays,Cleveland Guardians,Nick Martinez,Shawn Armstrong,607259.0,542888.0,3.1,1.09,180.0,5.45,1.3,4.58,1.39,35.1,8.66,4.84
-2026-10-18,849817,Scheduled,Tampa Bay Rays,Cleveland Guardians,,,,,,,,,,,,,,
+2026-10-18,849817,Scheduled,Tampa Bay Rays,Cleveland Guardians,Drew Rasmussen,Parker Messick,656876.0,800048.0,2.67,0.91,172.0,9.1,1.67,2.56,1.06,186.1,9.32,2.37
 2026-10-19,849815,Scheduled,Cleveland Guardians,Tampa Bay Rays,,,,,,,,,,,,,,
+2026-10-20,849814,Scheduled,Cleveland Guardians,Tampa Bay Rays,,,,,,,,,,,,,,
