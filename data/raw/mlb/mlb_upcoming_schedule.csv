@@ -1,3 +1,2 @@
 game_date,game_pk,status,away_team,home_team,away_pitcher,home_pitcher,away_pitcher_id,home_pitcher_id,away_pitcher_era,away_pitcher_whip,away_pitcher_innings_pitched,away_pitcher_strikeouts_per_9,away_pitcher_walks_per_9,home_pitcher_era,home_pitcher_whip,home_pitcher_innings_pitched,home_pitcher_strikeouts_per_9,home_pitcher_walks_per_9
-2026-10-19,849815,Scheduled,Cleveland Guardians,Tampa Bay Rays,,Freddy Peralta,,642547.0,,,,,,4.42,1.33,169.0,8.31,3.36
-2026-10-20,849814,Scheduled,Cleveland Guardians,Tampa Bay Rays,,,,,,,,,,,,,,
+2026-10-23,849805,Scheduled,Tampa Bay Rays,Milwaukee Brewers,,,,,,,,,,,,,,
